@@ -1,0 +1,16 @@
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\bin\Debug\net6.0\SingleThreaded.exe
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\bin\Debug\net6.0\Sigmund-Freud_-_Detskata_dusha_-_8233-b.txt
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\bin\Debug\net6.0\SingleThreaded.deps.json
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\bin\Debug\net6.0\SingleThreaded.runtimeconfig.json
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\bin\Debug\net6.0\SingleThreaded.dll
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\bin\Debug\net6.0\SingleThreaded.pdb
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\SingleThreaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\SingleThreaded.AssemblyInfoInputs.cache
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\SingleThreaded.AssemblyInfo.cs
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\SingleThreaded.csproj.CoreCompileInputs.cache
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\SingleThreaded.sourcelink.json
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\SingleThreaded.dll
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\refint\SingleThreaded.dll
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\SingleThreaded.pdb
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\SingleThreaded.genruntimeconfig.cache
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Single\SingleThreaded\SingleThreaded\obj\Debug\net6.0\ref\SingleThreaded.dll

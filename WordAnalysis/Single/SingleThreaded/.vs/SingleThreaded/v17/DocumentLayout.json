@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Parallel-Programming\\WordAnalysis\\Single\\SingleThreaded\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4EA8BA-E191-4D79-9343-BEFEA0CACA38}|SingleThreaded\\SingleThreaded.csproj|c:\\users\\bozhidar samokovski\\desktop\\parallel-programming\\wordanalysis\\single\\singlethreaded\\singlethreaded\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4EA8BA-E191-4D79-9343-BEFEA0CACA38}|SingleThreaded\\SingleThreaded.csproj|solutionrelative:singlethreaded\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4EA8BA-E191-4D79-9343-BEFEA0CACA38}|SingleThreaded\\SingleThreaded.csproj|c:\\users\\bozhidar samokovski\\desktop\\parallel-programming\\wordanalysis\\single\\singlethreaded\\singlethreaded\\singlethreaded.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A4EA8BA-E191-4D79-9343-BEFEA0CACA38}|SingleThreaded\\SingleThreaded.csproj|solutionrelative:singlethreaded\\singlethreaded.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingleThreaded",
+              "DocumentMoniker": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Parallel-Programming\\WordAnalysis\\Single\\SingleThreaded\\SingleThreaded\\SingleThreaded.csproj",
+              "RelativeDocumentMoniker": "SingleThreaded\\SingleThreaded.csproj",
+              "ToolTip": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Parallel-Programming\\WordAnalysis\\Single\\SingleThreaded\\SingleThreaded\\SingleThreaded.csproj",
+              "RelativeToolTip": "SingleThreaded\\SingleThreaded.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T15:31:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Parallel-Programming\\WordAnalysis\\Single\\SingleThreaded\\SingleThreaded\\Program.cs",
+              "RelativeDocumentMoniker": "SingleThreaded\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Parallel-Programming\\WordAnalysis\\Single\\SingleThreaded\\SingleThreaded\\Program.cs",
+              "RelativeToolTip": "SingleThreaded\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:31:23.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

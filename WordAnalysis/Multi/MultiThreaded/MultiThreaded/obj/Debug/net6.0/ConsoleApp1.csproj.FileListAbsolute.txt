@@ -1,0 +1,16 @@
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.sourcelink.json
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Bozhidar Samokovski\Desktop\Parallel-Programming\WordAnalysis\Multi\MultiThreaded\ConsoleApp1\bin\Debug\net6.0\Sigmund-Freud_-_Detskata_dusha_-_8233-b.txt
